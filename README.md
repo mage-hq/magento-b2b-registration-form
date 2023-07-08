@@ -1,5 +1,5 @@
 # magento-b2b-registration-form
-B2B registration form helps e-commerce stores to optimize the registration process of B2B customers, an additional feature for Magento 2 that allows store owners to customize customer registration forms to collect customer information more efficiently . This feature will give administrators the ability to approve or deny B2B customer subscriptions
+Magento 2 B2B registration form enables e-commerce store owners to tailor customer registration forms for B2B customers, and gather customer information more efficiently. It also lets administrators control B2B customer subscriptions by accepting or declining them, and streamlines the registration process of B2B customers.
 
 Please go to https://magehq.com/b2b-registration-form.html buy extension
 
